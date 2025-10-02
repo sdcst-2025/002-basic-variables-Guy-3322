@@ -37,3 +37,5 @@ variable in the {} where we would like to show the value of that variable
 '''
 x = 2.5
 print(f"The value of x is {x}")
+
+
